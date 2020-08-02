@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## ND9991 - C3 - Build CI/CD Pipelines, Monitoring, and Logging
 This repository provides the supporting material for the "ND9991 Cloud DevOps Nanodegree - C3 - Build CI/CD Pipelines, Monitoring, and Logging" course. This repo has two more branches, other than the master branch. 
 
@@ -21,3 +22,14 @@ As a part of the project, you will need to install Jenkins and a few plugins to 
 
 
 
+=======
+
+## ND9991 - C3 - Build CI/CD Pipelines, Monitoring, and Logging
+
+### You are in the blue branch of the repository.
+
+This repository provides the supporting material for the "ND9991 Cloud DevOps Nanodegree - C3 - Build CI/CD Pipelines, Monitoring, and Logging" course. This repo has two more branches, other than the master branch. 
+
+* Blue/Green branch corresponds to the Blue/Green deployment strategy. Make sure that you checkout branches "blue" and "green" to see how blue/green deployment was performed in the course.
+* You can create any more branches for a multiple pipeline set-up, as directed in the demonstration video. 
+>>>>>>> c1fc16b0cd7cb10e9cdb668dec6432d85a2861e3
